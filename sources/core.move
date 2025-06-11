@@ -1,4 +1,5 @@
 module share::core;
+
 use iota::table::{Self, Table};
 use iota::event;
 use iota::object::{Self, UID};
