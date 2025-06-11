@@ -1,4 +1,4 @@
-module share_interface::events;
+module share::events;
 
 public struct InviteeAdded has copy, drop {
     invitee: address,

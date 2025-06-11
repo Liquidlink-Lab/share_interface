@@ -1,5 +1,5 @@
 [package]
-name = "share"
+name = "Share"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 published-at = "0x39341a1c6408ac7fccf5456e39ef3ffc15dead3cb054b45aaf5fa14d9c27760b"
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
